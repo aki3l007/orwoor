@@ -1,0 +1,28 @@
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\MathsComponent.dll
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\MathsComponent.pdb
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\ORW7\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\ORW7\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\ORW7\UnitTestProject1\UnitTestProject1\bin\Debug\MathsComponent.dll
+E:\ORW7\UnitTestProject1\UnitTestProject1\bin\Debug\MathsComponent.pdb
+E:\ORW7\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\ORW7\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\ORW7\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+F:\ORW7\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\ORW7\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\ORW7\UnitTestProject1\UnitTestProject1\bin\Debug\MathsComponent.dll
+F:\ORW7\UnitTestProject1\UnitTestProject1\bin\Debug\MathsComponent.pdb
+F:\ORW7\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+F:\ORW7\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\ORW7\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\akiel\Desktop\Zacny\orw7\orw7\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\akiel\Desktop\Zacny\orw7\orw7\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\akiel\Desktop\Zacny\orw7\orw7\UnitTestProject1\UnitTestProject1\bin\Debug\MathsComponent.dll
+C:\Users\akiel\Desktop\Zacny\orw7\orw7\UnitTestProject1\UnitTestProject1\bin\Debug\MathsComponent.pdb
+C:\Users\akiel\Desktop\Zacny\orw7\orw7\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\akiel\Desktop\Zacny\orw7\orw7\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\akiel\Desktop\Zacny\orw7\orw7\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

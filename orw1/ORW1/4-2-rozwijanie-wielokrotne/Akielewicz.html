@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+  <head>
+    <title>Akielewicz Mateusz #4.2</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <style type="text/css">
+    .tresc {
+        width: 200px;<!--zminiejszona szerokosc-->
+        border: 1px solid black;
+        padding: 10px;
+        background: #e8fff1;        
+        margin: 15px;<!--margines, odleglosc zwiekszona miedzy ramkami-->
+    }
+    .minitresc {
+        display: none;
+        padding: 5px;
+    }
+    a {
+        width: 20px;
+        font-family: "Courier New", monospace;
+        text-decoration: none;
+    }
+    </style>
+    
+<script type="text/javascript">
+
+function expandCollapse(Id)
+{
+    var n = Id.parentNode.childNodes[2];
+    if (n.style.display == 'block') {
+        n.style.display = 'none';        
+        Id.innerHTML = '+';
+    } else {
+        n.style.display = 'block';                
+        n.innerHTML = 'Akielewicz Mateusz';
+        Id.innerHTML = '-';        
+    }
+}
+
+</script>    
+    
+    
+  </head>
+<body>
+
+<div class="tresc"><a href="#" onclick="expandCollapse(this);">+</a><span>Autor: </span><div></div></div>
+<div class="tresc"><a href="#" onclick="expandCollapse(this);">+</a><span>Autor: </span><div></div></div>
+<div class="tresc"><a href="#" onclick="expandCollapse(this);">+</a><span>Autor: </span><div></div></div>
+<div class="tresc"><a href="#" onclick="expandCollapse(this);">+</a><span>Autor: </span><div></div></div>
+<div class="tresc"><a href="#" onclick="expandCollapse(this);">+</a><span>Autor: </span><div></div></div>
+<div class="tresc"><a href="#" onclick="expandCollapse(this);">+</a><span>Autor: </span><div></div></div>
+<div class="tresc"><a href="#" onclick="expandCollapse(this);">+</a><span>Autor: </span><div></div></div>
+<div class="tresc"><a href="#" onclick="expandCollapse(this);">+</a><span>Autor: </span><div></div></div>
+<div class="tresc"><a href="#" onclick="expandCollapse(this);">+</a><span>Autor: </span><div></div></div>
+
+</body>
+</html>

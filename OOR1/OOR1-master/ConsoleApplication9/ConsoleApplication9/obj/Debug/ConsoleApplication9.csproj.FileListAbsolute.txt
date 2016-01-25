@@ -1,0 +1,15 @@
+c:\users\michał\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+c:\users\michał\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+c:\users\michał\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+c:\users\michał\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+c:\users\michał\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+c:\users\michał\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\akiel\Desktop\Zacny\OOR1\OOR1-master\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\akiel\Desktop\Zacny\OOR1\OOR1-master\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\akiel\Desktop\Zacny\OOR1\OOR1-master\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\akiel\Desktop\Zacny\OOR1\OOR1-master\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\akiel\Desktop\Zacny\OOR1\OOR1-master\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\akiel\Desktop\Zacny\OOR1\OOR1-master\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+C:\Zacny\laborki\OOR1\OOR1-master\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Zacny\laborki\OOR1\OOR1-master\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Zacny\laborki\OOR1\OOR1-master\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb

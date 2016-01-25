@@ -1,0 +1,20 @@
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\MathsComponent\bin\Debug\MathsComponent.dll
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\MathsComponent\bin\Debug\MathsComponent.pdb
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\MathsComponent\obj\Debug\MathsComponent.csprojResolveAssemblyReference.cache
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\MathsComponent\obj\Debug\MathsComponent.dll
+c:\users\michał\documents\visual studio 2012\Projects\UnitTestProject1\MathsComponent\obj\Debug\MathsComponent.pdb
+E:\ORW7\UnitTestProject1\MathsComponent\bin\Debug\MathsComponent.dll
+E:\ORW7\UnitTestProject1\MathsComponent\bin\Debug\MathsComponent.pdb
+E:\ORW7\UnitTestProject1\MathsComponent\obj\Debug\MathsComponent.csprojResolveAssemblyReference.cache
+E:\ORW7\UnitTestProject1\MathsComponent\obj\Debug\MathsComponent.dll
+E:\ORW7\UnitTestProject1\MathsComponent\obj\Debug\MathsComponent.pdb
+F:\ORW7\UnitTestProject1\MathsComponent\bin\Debug\MathsComponent.dll
+F:\ORW7\UnitTestProject1\MathsComponent\bin\Debug\MathsComponent.pdb
+F:\ORW7\UnitTestProject1\MathsComponent\obj\Debug\MathsComponent.csprojResolveAssemblyReference.cache
+F:\ORW7\UnitTestProject1\MathsComponent\obj\Debug\MathsComponent.dll
+F:\ORW7\UnitTestProject1\MathsComponent\obj\Debug\MathsComponent.pdb
+C:\Users\akiel\Desktop\Zacny\orw7\orw7\UnitTestProject1\MathsComponent\bin\Debug\MathsComponent.dll
+C:\Users\akiel\Desktop\Zacny\orw7\orw7\UnitTestProject1\MathsComponent\bin\Debug\MathsComponent.pdb
+C:\Users\akiel\Desktop\Zacny\orw7\orw7\UnitTestProject1\MathsComponent\obj\Debug\MathsComponent.csprojResolveAssemblyReference.cache
+C:\Users\akiel\Desktop\Zacny\orw7\orw7\UnitTestProject1\MathsComponent\obj\Debug\MathsComponent.dll
+C:\Users\akiel\Desktop\Zacny\orw7\orw7\UnitTestProject1\MathsComponent\obj\Debug\MathsComponent.pdb
